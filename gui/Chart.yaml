@@ -1,5 +1,5 @@
 apiVersion: v2
 name: sbom-gui
 description: Sample application
-version: 0.0.1
-appVersion: 1.0.0
+version: 02.26.00
+appVersion: 02.26.00
